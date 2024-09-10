@@ -1,0 +1,252 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "img": [
+        "img/destination/kintamani-mountain/3.jpg",
+        "img/destination/kintamani-mountain/2.jpg",
+        "img/destination/kintamani-mountain/1.jpg"
+      ],
+      "placeName": "Kintamani Mountain",
+      "region": "Kintamani, Bangli",
+      "textDetails": "<strong> Kintamani </strong> is located in the southern part of Batur Tengah Village of Kintamani District, about 20 kms from the town of Bangli or 63 kms(2.30 hours drive) from Denpasar, the capital of Bali Province. All roads are generally in good condition to   access to this place. The fog will descend and blanket entire area of Kintamani with cold temperature in particular at late afternoon until the whole of night. The most amazing panorama at Kintamani can be seen in the morning time, when the sunrise emerges on the surface of earth precisely on the Batur Mountain. ",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.5769498714776!2d115.33210517500987!3d-8.245223291788106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1f5643c11f637%3A0x21bbe52a52636ade!2sKintamani%20mountain!5e0!3m2!1sid!2sid!4v1721613664973!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 2,
+      "img": [
+        "img/destination/kintamani-batur-volcano/1.jpg",
+        "img/destination/kintamani-batur-volcano/2.jpg",
+        "img/destination/kintamani-batur-volcano/3.jpg"
+      ],
+      "placeName": "Batur volcano & Batur lake",
+      "region": "Kintamani, Bangli",
+      "textDetails": "Lake Batur is a volcanic crater lake in Kintamani, Bali, Bangli Regency of Bali, located about 30 km (19 mi) northeast of Ubud in Bali. The lake is inside of the caldera of an active volcano, Mount Batur, located along the Ring of Fire of volcanic activity.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63175.66884020504!2d115.36119275640863!3d-8.254995545223483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1f680e7f40cad%3A0x605760d5a99c0414!2sDanau%20Batur!5e0!3m2!1sid!2sid!4v1721887250733!5m2!1sid!2sid",
+      "rating": 3.5
+    },
+    {
+      "id": 3,
+      "img": [
+        "img/destination/ubud-palace/2.webp",
+        "img/destination/ubud-palace/1.jpg",
+        "img/destination/ubud-palace/3.jpg"
+      ],
+      "placeName": "Ubud palace",
+      "region": "Ubud, Gianyar",
+      "textDetails": "The palace has beautifully crafted buildings with high aesthetic value. The walls and doorways have a distinctive design carved in stone, and of course, there is also a temple inside the palace. You can wander around, explore the buildings and items, and pay heed to the details of every object of the Balinese traditional cultures there – or take some shots for your Instagram as well! The palace is also equipped with an auditorium and a banyan tree as a shelter during the daytime.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.925676020471!2d115.26001347501271!3d-8.506597691535378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd23d6af37eb24b%3A0x4bcdf69a281c3f32!2sUbud%20Palace!5e0!3m2!1sid!2sid!4v1721891636762!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 4,
+      "img": [
+        "img/destination/ubud-monkey-forest/1.jpg",
+        "img/destination/ubud-monkey-forest/3.jpg",
+        "img/destination/ubud-monkey-forest/4.webp",
+        "img/destination/ubud-monkey-forest/5.jpg"
+      ],
+      "placeName": "Ubud Monkey Forest",
+      "region": "Ubud, Gianyar",
+      "textDetails": "The Ubud Monkey Forest is a famous tourist attraction in Ubud. Every month, around 10,000–15,000 visitors come to Ubud Monkey Forest. The Ubud Monkey Forest has 186 species of plants and trees in 12.5 hectares of forest. The Ubud Monkey Forest has 3 temples, namely Dalem Agung Padangtegal Temple, Holy Spring Temple, and Prajapati Temple. The forest is owned by the Padangtegal community and is managed by Mandala Suci Wenara Wana Management. The purpose of the management is to preserve the sacred place and promote the Ubud Monkey Forest as an international tourist destination",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.793927595371!2d115.25805677501289!3d-8.519378391523015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd23de09e1a4359%3A0x87384198c326203e!2sMonkey%20Forest%20Ubud!5e0!3m2!1sid!2sid!4v1721891969757!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 5,
+      "img": [
+        "img/destination/ubud-art-market/1.jpg",
+        "img/destination/ubud-art-market/2.jpg",
+        "img/destination/ubud-art-market/3.jpg"
+      ],
+      "placeName": "Ubud Art Market",
+      "region": "Ubud, Gianyar",
+      "textDetails": "Ubud Traditional Art Market is one of Bali’s best markets, selling a variety of authentic and artisanal goods by the locals. You'll be able to find unique silk scarves, handmade crockery, and woven bags—perfect as a souvenir of Bali to bring home to your loved ones. Head to the market’s east for a more traditional Indonesian experience, where you’ll find locals buying fresh produce and groceries. If you want to learn more about the market and Balinese crafts, be sure to join a local market tour which typically includes other top Bali attractions. – Tripadvisor",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.9227186377448!2d115.25985037501285!3d-8.506884791535052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd23de2db450aa1%3A0x409d0777de9a0ded!2sPasar%20Seni%20Ubud!5e0!3m2!1sid!2sid!4v1722773667275!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 6,
+      "img": [
+        "img/destination/badung-nusa-dua/1.jpg",
+        "img/destination/badung-nusa-dua/2.jpg",
+        "img/destination/badung-nusa-dua/3.webp"
+      ],
+      "placeName": "Nusa Dua Beach",
+      "region": "Badung",
+      "textDetails": "Nusa Dua is located at the tip of the southeastern part of Bali Island, and about 40 km from Denpasar city. In the elite area of 350 hectare developed by BTDC (Bali Tourism Development Corporation) stand a lot of 5-star hotel and convention centers and it is not surprising, international event are often held in this area. <br> <br> Actually, Nusa Dua was the name of two small isles separated by white sand. This tourist area is enacted to become the first area in Asia-Pacific Region gaining “Green Globe”, namely a certificate given by the Green Globe Certification for Environmentally friendly tourist attractions.<br> <br> For those who want luxury and peace in the waves sigh, then visiting Nusa Dua Beach is very felicitous. In addition to parks and aeaa arrangement that is so neat, the beach is also brilliant with white sand like a bath rugs and blue silk.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3942.8958809109995!2d115.23121217501617!3d-8.795851941256497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd243213c2ea8df%3A0xfe9b8fbae7a12e8f!2sPantai%20Nusa%20Dua!5e0!3m2!1sid!2sid!4v1722773727153!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 7,
+      "img": [
+        "img/destination/badung-uluwatu-temple/2.jpg",
+        "img/destination/badung-uluwatu-temple/1.jpg",
+        "img/destination/badung-uluwatu-temple/3.jpg"
+      ],
+      "placeName": "Uluwatu Temple",
+      "region": "Badung",
+      "textDetails": "Uluwatu Temple is a Balinese sea temple in Uluwatu. The temple is regarded as one of the sad kahyangan and is dedicated to Sang Hyang Widhi Wasa in his manifestation as Rudra. The temple (pura in Balinese) is built at the edge (ulu) of a 70-meter-high (230 ft) cliff or rock (watu) projecting into the sea. In folklore, this rock is said to be part of Dewi Danu's petrified barque.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31540.325771523618!2d115.04885801083987!3d-8.829143200000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd24ffc20cb8191%3A0xcb98d1ba7db0495!2sPura%20Luhur%20Uluwatu!5e0!3m2!1sid!2sid!4v1722774580498!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 8,
+      "img": [
+        "img/destination/badung-cliff-indian-ocean/1.webp",
+        "img/destination/badung-cliff-indian-ocean/2.webp",
+        "img/destination/badung-cliff-indian-ocean/3.webp"
+      ],
+      "placeName": "Cliff Indian Ocean",
+      "region": "Badung",
+      "textDetails": "The cliffs of Uluwatu are one of the most popular places to visit in Bali. The cliffs are located in the southern part of Bali, near the Uluwatu Temple. The cliffs are a popular spot for tourists to visit because of the stunning views of the Indian Ocean. The cliffs are also a popular spot for surfers, as the waves are some of the best in Bali. The cliffs are a great place to visit if you want to see some of the most beautiful views in Bali.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d252355.23576295588!2d114.85301678671875!3d-8.781313899999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd245de48ba7933%3A0xe40c0cf93ee90e54!2sCliff%20overlooking%20the%20ocean!5e0!3m2!1sid!2sid!4v1722775097241!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 9,
+      "img": [
+        "img/destination/kuta-sunset-beach/1.jpg",
+        "img/destination/kuta-sunset-beach/2.jpg",
+        "img/destination/kuta-sunset-beach/3.jpg"
+      ],
+      "placeName": "Kuta Sunset Beach",
+      "region": "Badung",
+      "textDetails": "Kuta Beach is a tourist attraction in Bali, Indonesia. Located in the village of Kuta, Badung, Bali, this beach is located on the western side of the island of Bali. Kuta Beach is often referred to as Sunset Beach as opposed to the Sanur Beach which is known as Sunrise Beach. Kuta Beach is also known as a tourist beach in Bali. The beach is also famous for its beautiful sunset views.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15774.884440673197!2d115.15773478670333!3d-8.71801120137849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd246bc2ab70d43%3A0x82feaae12f4ab48e!2sPantai%20Kuta!5e0!3m2!1sid!2sid!4v1722775275916!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 10,
+      "img": [
+        "img/destination/kuta-night-life/3.jpg",
+        "img/destination/kuta-night-life/2.jpg",
+        "img/destination/kuta-night-life/1.jpeg"
+      ],
+      "placeName": "Kuta Night Life",
+      "region": "Badung",
+      "textDetails": "Kuta is a tourist area in Bali, Indonesia. Located in the village of Kuta, Badung, Bali, this area is located on the western side of the island of Bali. Kuta is known as a tourist area in Bali. Kuta is also known as a nightlife area in Bali. Kuta is also known as a shopping area in Bali. Kuta is also known as a culinary area in Bali. Kuta is also known as a surfing area in Bali. Kuta is also known as a beach area in Bali. Kuta is also known as a sunset area in Bali. Kuta is also known as a sunrise area in Bali. Kuta is also known as a tourist area in Bali.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15774.884440673197!2d115.15773478670333!3d-8.71801120137849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd246bc2ab70d43%3A0x82feaae12f4ab48e!2sPantai%20Kuta!5e0!3m2!1sid!2sid!4v1722775275916!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 11,
+      "img": [
+        "img/destination/tabanan-tanah-lot-temple/3.webp",
+        "img/destination/tabanan-tanah-lot-temple/2.jpg",
+        "img/destination/tabanan-tanah-lot-temple/1.jpg"
+      ],
+      "placeName": "Tanah Lot Temple",
+      "region": "Tabanan",
+      "textDetails": "Tanah Lot is a rock formation off the Indonesian island of Bali. It is home to the ancient Hindu pilgrimage temple Pura Tanah Lot, a popular tourist and cultural icon for photography and general exoticism.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3944.7371628928126!2d115.08230088885502!3d-8.621213000000012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd237824f71deab%3A0xcaabe270f7e34d69!2sTanah%20Lot!5e0!3m2!1sid!2sid!4v1722775984774!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 12,
+      "img": [
+        "img/destination/bedugul-ulundanu-temple/1.jpg",
+        "img/destination/bedugul-ulundanu-temple/2.jpg",
+        "img/destination/bedugul-ulundanu-temple/3.jpg"
+      ],
+      "placeName": "Ulundanu temple",
+      "region": "Bedugul, Tabanan",
+      "textDetails": "Pura Ulun Danu Beratan, or Pura Bratan, is a major Shaivite water temple on Bali, Indonesia. The temple complex is located on the shores of Lake Bratan in the mountains near Bedugul. Water temples serve the entire region in the outflow area; downstream there are many smaller water temples that are specific to each irrigation association (subak).",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.2772426744395!2d115.16424847501018!3d-8.275180691759129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1896c9fac0857%3A0x18246568e4db1b53!2sPura%20Ulun%20Danu%20Beratan%20Bedugul!5e0!3m2!1sid!2sid!4v1722776883415!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 13,
+      "img": [
+        "img/destination/bedugul-beratan-lake/1.jpg",
+        "img/destination/bedugul-beratan-lake/2.webp",
+        "img/destination/bedugul-beratan-lake/3.jpg"
+      ],
+      "placeName": "Beratan Lake",
+      "region": "Bedugul, Tabanan",
+      "textDetails": "Lake Bratan is a lake located in the Bedugul area of Bali, Indonesia. It is located in the mountainous region of central Bali, at a height of 1,240 m above sea level. It is one of the three lakes in the area that provide water for the irrigation of the surrounding rice fields.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31586.365004358933!2d115.15457755692186!3d-8.27334632268316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd18968c2459d53%3A0xbe028c1761c867ac!2sDanau%20Beratan!5e0!3m2!1sid!2sid!4v1722777249248!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 14,
+      "img": [
+        "img/destination/bedugul-flowers-garden/2.webp",
+        "img/destination/bedugul-flowers-garden/1.jpg",
+        "img/destination/bedugul-flowers-garden/3.jpg"
+      ],
+      "placeName": "Bedugul Flowers Garden",
+      "region": "Bedugul, Tabanan",
+      "textDetails": "Bali Botanic Garden is a large tropical garden in Bali, Indonesia. The garden is located in the mountainous region of Bedugul, central Bali, around 90 minutes drive north of Denpasar. The garden is situated on 157.5 hectares of land and contains more than 21,000 living specimens. The garden was established in 1959 and is the largest botanic garden in Indonesia.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63168.11298334156!2d115.0866757216797!3d-8.302094799999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1898298e911d1%3A0x3bf4944dca7aa03b!2sTaman%20bunga%20bedugul!5e0!3m2!1sid!2sid!4v1722777416868!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 15,
+      "img": [
+        "img/destination/nusa-penida-island/1.jpg",
+        "img/destination/nusa-penida-island/2.jpg",
+        "img/destination/nusa-penida-island/3.jpg"
+      ],
+      "placeName": "Nusa Penida Island",
+      "region": "Klungkung",
+      "textDetails": "Nusa Penida is an island southeast of Indonesia's island Bali and a district of Klungkung Regency that includes the neighbouring small island of Nusa Lembongan. The Badung Strait separates the island and Bali. The interior of Nusa Penida is hilly with a maximum altitude of 524 metres. It is drier than the nearby island of Bali. There is very little tourist infrastructure.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126189.81237150829!2d115.45523785237295!3d-8.745394418888539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd271194d1319d3%3A0x5c3a3706b2197b7b!2sNusa%20Penida!5e0!3m2!1sid!2sid!4v1722940634715!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 16,
+      "img": [
+        "img/destination/nusa-penida-broken-beach/1.webp",
+        "img/destination/nusa-penida-broken-beach/2.webp",
+        "img/destination/nusa-penida-broken-beach/3.jpg"
+      ],
+      "placeName": "Broken Beach",
+      "region": "Klungkung",
+      "textDetails": "Broken Beach is a scenic coastal formation on the southwestern edge of Nusa Penida island. The spot is marked by a hilly arch-like rock formation, which is the distinguishable landmark of the area. Set over the crashing waves of the open Indian Ocean, Broken Beach is a great spot for travel photographers and panoramic view seekers. The adjacent area is also home to grey long-tailed macaques. If you’re lucky, you may spot silhouettes of giant mantas near the surface of the deep blue water.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3943.5668394609484!2d115.4482874250154!3d-8.73261529131736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd26fdf21a72dcb%3A0x2fdb3f30123947a5!2sBroken%20Beach!5e0!3m2!1sid!2sid!4v1722941268522!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 17,
+      "img": [
+        "img/destination/nusa-penida-angels-billabong/3.jpg",
+        "img/destination/nusa-penida-angels-billabong/1.jpg",
+        "img/destination/nusa-penida-angels-billabong/2.jpg"
+      ],
+      "placeName": "Angel's Billabong",
+      "region": "Klungkung",
+      "textDetails": "Angel’s Billabong is a spectacular rock formation on Nusa Penida island’s southwestern cliff edges. It’s nearby Pasih Uug (Broken Beach), another popular site with unique limestone formations. The naturally formed rock lagoon offers a scenic seascape. You can descend into its crystal-clear rock pools for a swim or a soak, but only during low tide. The rock pools are one of the must-see spots on Nusa Penida.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7887.113998419404!2d115.448824!3d-8.733546!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd26f817e9cb20b%3A0x168ba6d3daf31579!2sAngel's%20Billabong!5e0!3m2!1sid!2sid!4v1722941789018!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 18,
+      "img": [
+        "img/destination/nusa-penida-kelingking-beach/1.jpg",
+        "img/destination/nusa-penida-kelingking-beach/2.jpg",
+        "img/destination/nusa-penida-kelingking-beach/3.jpg"
+      ],
+      "placeName": "Kelingking Beach",
+      "region": "Klungkung",
+      "textDetails": "Kelingking Beach is a hidden beach in the village of Bunga Mekar, on the southwestern coast of Nusa Penida island. You can enjoy one of the most breath-taking views over the hills and small strip of white sand from atop a hill of the same name. The sight features a limestone headland down to the Indian Ocean, with a series of stairs and slopes that lead down to the beach. The secluded beach itself is wedged between the cliffs and the main rock, an overhead formation that resembles a T-Rex head.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3943.3687451958153!2d115.4706336750156!3d-8.751332491299332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd26f1616cd2cc7%3A0xee84b7df0afbff19!2sKelingking%20Beach!5e0!3m2!1sid!2sid!4v1722941902963!5m2!1sid!2sid",
+      "rating": 0
+    },
+    {
+      "id": 19,
+      "img": [
+        "img/destination/nusa-penida-crystal-bay/1.jpg",
+        "img/destination/nusa-penida-crystal-bay/2.jpg",
+        "img/destination/nusa-penida-crystal-bay/3.jpg"
+      ],
+      "placeName": "Crystal Bay",
+      "region": "Klungkung",
+      "textDetails": "Crystal Bay is a popular diving site in Bali and is located on the west coast of Nusa Penida. The bay is located near the village of Sakti. The bay is known for its crystal-clear waters and is a popular spot for snorkeling and diving. The bay is home to a variety of marine life, including manta rays, reef sharks, and sea turtles. The bay is also home to a variety of coral reefs, including hard and soft corals.",
+      "iframeLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3943.3687451958153!2d115.4706336750156!3d-8.751332491299332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd26f1616cd2cc7%3A0xee84b7df0afbff19!2sKelingking%20Beach!5e0!3m2!1sid!2sid!4v1722941902963!5m2!1sid!2sid",
+      "rating": 0
+    }
+  ]
+}
