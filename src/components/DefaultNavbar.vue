@@ -115,14 +115,10 @@ const toggleDropdown = () => {
                 Activities
               </RouterLink>
             </li>
-            <li>
-              <a href="/#services" class="block py-3 px-3 text-[#0E46A3] rounded lg:py-1"
-                >Services</a
-              >
-            </li>
+          
             <li>
               <a
-                href="#"
+                href="#Contact"
                 class="flex justify-center items-center mx-auto border-[#0E46A3] w-[90%] border-2 px-3 py-1 mt-5 lg:mt-0 text-[#0E46A3] rounded-lg lg:w-full hover:bg-[#0E46A3] hover:text-[#E1F7F5] duration-300"
                 >Contact Us</a
               >
