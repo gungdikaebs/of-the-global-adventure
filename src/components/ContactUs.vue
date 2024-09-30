@@ -1,6 +1,7 @@
 <template>
     <!-- CONTACT US -->
-    <section class="max-w-screen-xl my-14 mx-auto flex flex-col relative" id="Contact">
+    <section class="max-w-screen-xl my-14 mx-auto flex flex-col relative" id="Contact" data-aos="fade-up"
+        data-aos-duration="1500">
         <h1 class="text-[#1E0342] font-semibold text-[2rem] md:text-[3rem] text-center relative">
             Contact Us
         </h1>
@@ -13,7 +14,7 @@
                     <div class="mx-5">
                         <h1 class="text-[#1E0342] font-semibold text-xl lg:text-2xl">
                             WHATSAPP
-                        </h1>   
+                        </h1>
                         <a href="https://wa.me/6282266619405" class="text-[#1f162b] font-normal">+6282266619405</a>
                     </div>
                 </div>
@@ -25,7 +26,8 @@
                         <h1 class="text-[#1E0342] font-semibold text-xl lg:text-2xl">
                             Email
                         </h1>
-                        <a href="mailto: lisnayanidwi@gmail.com" class="text-[#1E0342] font-normal">lisnayanidwi@gmail.com</a>
+                        <a href="mailto: lisnayanidwi@gmail.com"
+                            class="text-[#1E0342] font-normal">lisnayanidwi@gmail.com</a>
                     </div>
                 </div>
             </div>

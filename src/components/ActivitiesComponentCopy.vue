@@ -27,24 +27,16 @@ const divClass = {
 
 <template>
   <!-- ACTIVITIES -->
-  <section class="max-w-screen-xl mt-14 mx-auto">
+  <section class="max-w-screen-xl mt-14 mx-auto" data-aos="zoom-out" data-aos-duration="1000">
     <h1 class="text-[#1E0342] font-semibold text-[2rem] md:text-[3rem] text-center">Activities</h1>
     <div class="grid-container">
-      <RouterLink
-        class="grid-item"
-        v-for="(item, index) in randomActivities"
-        :class="divClass[index]"
-        :key="item"
-        :style="`background-image: url('${item.img[randomNumber(0, 2)]}');`"
-        :to="'/activities/detail/' + item.id"
-      >
+      <RouterLink class="grid-item" v-for="(item, index) in randomActivities" :class="divClass[index]" :key="item"
+        :style="`background-image: url('${item.img[randomNumber(0, 2)]}');`" :to="'/activities/detail/' + item.id">
       </RouterLink>
     </div>
     <div class="flex w-full justify-end">
-      <RouterLink
-        to="/activities"
-        class="block py-2 px-3 text-[#0E46A3] rounded lg:bg-transparent lg:py-1 border border-[#0E46A3]"
-      >
+      <RouterLink to="/activities"
+        class="block py-2 px-3 text-[#0E46A3] rounded lg:bg-transparent lg:py-1 border border-[#0E46A3]">
         More
       </RouterLink>
     </div>

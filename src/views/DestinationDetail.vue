@@ -4,6 +4,9 @@ import destinations from '@/assets/json/destinations.json'
 import MainDetail from '@/components/MainDetail.vue'
 import { useRoute } from 'vue-router'
 import { watchEffect, ref } from 'vue'
+import Footer from '@/components/Footer.vue'
+
+
 const route = useRoute()
 const params = ref(route.params.id)
 
@@ -14,4 +17,5 @@ watchEffect(() => {
 <template>
   <DefaultNavbar />
   <MainDetail :datas="destinations" type="destination" :key="params"></MainDetail>
+  <Footer />
 </template>

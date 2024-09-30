@@ -79,7 +79,7 @@ const capitalize = (str) => {
     </section>
     <div class="flex w-full">
       <button @click="maxShowedData += showMoreData" v-if="totalData > maxShowedData"
-        class="bg-white text-black text-center mx-auto mb-12 mt-4 p-2 rounded">
+        class="bg-white border border-1 text-black text-center mx-auto mb-12 mt-4 p-2 rounded">
         Load More
       </button>
     </div>
