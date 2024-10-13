@@ -20,7 +20,7 @@ import Footer from '@/components/Footer.vue'
           Explore The <br />
           Most Beautiful
         </h1>
-        <h1 class="outline-text font-bold text-[3rem] md:text-[5rem] mx-16 tracking-wide">Place</h1>
+        <span class="outline-text font-bold text-[3rem] md:text-[5rem] mx-16 tracking-wide">Place</span>
       </div>
       <RouterLink to="/destination"
         class="mx-16 mt-5 text-[#E1F7F5] p-3 bg-[#1E0342] hover:bg-[#0E46A3] duration-300 rounded-md pl-5 w-40 flex">

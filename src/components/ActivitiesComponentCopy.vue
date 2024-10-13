@@ -28,7 +28,7 @@ const divClass = {
 <template>
   <!-- ACTIVITIES -->
   <section class="max-w-screen-xl mt-14 mx-auto" data-aos="zoom-out" data-aos-duration="1000">
-    <h1 class="text-[#1E0342] font-semibold text-[2rem] md:text-[3rem] text-center">Activities</h1>
+    <h2 class="text-[#1E0342] font-semibold text-[2rem] md:text-[3rem] text-center">Activities</h2>
     <div class="grid-container">
       <RouterLink class="grid-item" v-for="(item, index) in randomActivities" :class="divClass[index]" :key="item"
         :style="`background-image: url('${item.img[randomNumber(0, 2)]}');`" :to="'/activities/detail/' + item.id">

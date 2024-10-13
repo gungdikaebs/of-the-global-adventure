@@ -40,7 +40,7 @@ if (isAccomodationActive()) {
     <nav class="bg-[#E1F7F5]">
       <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <RouterLink to="/" class="flex items-center">
-          <img src="./../assets/Logo.png" alt="" class="h-10 lg:h-20 scale-150 lg:scale-100" />
+          <img src="./../assets/Logo.png" alt="" width="100px" />
         </RouterLink>
         <button class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg lg:hidden"
           @click="toggleNavbar">

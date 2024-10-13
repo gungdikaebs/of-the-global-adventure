@@ -6,9 +6,9 @@ import checkRounded from '@/components/icons/checkRounded.vue'
   <section class="max-w-screen-xl bg-[#0E46A3] flex flex-col mx-auto rounded-lg" data-aos="fade-down"
     data-aos-duration="2000">
     <div class="flex flex-col" data-aos="zoom-in">
-      <h1 class="text-center mt-10 font-semibold text-[2rem] md:text-[3rem] text-[#E1F7F5] tracking-wide">
+      <h2 class="text-center mt-10 font-semibold text-[2rem] md:text-[3rem] text-[#E1F7F5] tracking-wide">
         Service
-      </h1>
+      </h2>
       <p class="text-center text-[#E1F7F5] font-light text-sm mt-3 px-5">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum delectus corrupti
         laudantium nobis culpa fugiat magnam. Laborum officia animi delectus!
@@ -18,9 +18,9 @@ import checkRounded from '@/components/icons/checkRounded.vue'
       <div
         class="w-full lg:w-[45%] h-72 bg-[#E1F7F5] rounded-xl px-5 items-center md:w-[80%] hover:scale-110 duration-500">
         <div class="py-[10%] flex flex-col">
-          <h1 class="text-center text-[#0E46A3] font-semibold text-[1.5rem] mb-3">
+          <h3 class="text-center text-[#0E46A3] font-semibold text-[1.5rem] mb-3">
             Honeymoon Package
-          </h1>
+          </h3>
           <hr class="border-b w-72 mx-auto mb-3 border-slate-500" />
           <ul class="mx-auto pl-0 md:pl-5">
             <li class="flex">
@@ -47,9 +47,9 @@ import checkRounded from '@/components/icons/checkRounded.vue'
       <div
         class="w-full lg:w-[45%] h-72 bg-[#E1F7F5] rounded-xl px-5 items-center md:w-[80%] hover:scale-110 duration-500">
         <div class="py-[10%] flex flex-col">
-          <h1 class="text-center text-[#0E46A3] font-semibold text-[1.5rem] mb-3">
+          <h3 class="text-center text-[#0E46A3] font-semibold text-[1.5rem] mb-3">
             Family Package
-          </h1>
+          </h3>
           <hr class="border-b w-72 mx-auto mb-3 border-slate-500" />
           <ul class="mx-auto pl-0 md:pl-5">
             <li class="flex">

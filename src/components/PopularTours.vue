@@ -16,9 +16,9 @@ const middleNumber = Math.floor(totalData / 2)
 <template>
   <section class="my-20 max-w-screen-xl flex flex-col items-center mx-auto" data-aos="fade-up" data-aos-duration="1500">
     <div class="container mb-5">
-      <h1 class="text-[#1E0342] font-semibold text-[2rem] md:text-[3rem] text-center mb-10">
+      <h2 class="text-[#1E0342] font-semibold text-[2rem] md:text-[3rem] text-center mb-10">
         Popular Tours
-      </h1>
+      </h2>
     </div>
     <div class="container">
       <swiper-container pagination-el=".swiper-pagination" class="popular-slider max-w-screen-lg" effect="coverflow"
@@ -32,9 +32,9 @@ const middleNumber = Math.floor(totalData / 2)
               <img :src="publicPath + destination.img[0]" alt="" class="img-main" />
             </div>
             <div class="popular-slide-title">
-              <h1 class="front-text text-[#E1F7F5] font-['Montez'] text-[3rem] font-bold">
+              <h3 class="front-text text-[#E1F7F5] font-['Montez'] text-[3rem] font-bold">
                 {{ destination.placeName }}
-              </h1>
+              </h3>
             </div>
           </RouterLink>
         </swiper-slide>
