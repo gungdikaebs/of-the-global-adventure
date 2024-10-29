@@ -5,6 +5,7 @@ import StarRating from '@/components/StarRating.vue'
 import { useRoute } from 'vue-router'
 import { ref, computed } from 'vue'
 import 'swiper/css'
+import { contactTemplate } from '@/config/contact'
 
 const props = defineProps({
   datas: {
@@ -83,7 +84,20 @@ const capitalize = (str) => {
                   <a href="">
                     <img src="../assets/icons/Whatsapp.png" alt="" />
                   </a>
-                  <da href="" class="py-3 ml-1 text-sm text-left">Whatsapp</da>
+                  <a
+                    :href="contactTemplate(data.placeName, data.category)"
+                    v-if="data.category"
+                    target="_blank"
+                    class="py-3 ml-1 text-sm text-left"
+                    >Whatsapp</a
+                  >
+                  <a
+                    :href="contactTemplate(data.placeName, 'destination')"
+                    v-else
+                    target="_blank"
+                    class="py-3 ml-1 text-sm text-left"
+                    >Whatsapp</a
+                  >
                 </div>
               </div>
             </div>
