@@ -23,7 +23,13 @@
           </div>
           <div class="mx-5">
             <h3 class="text-[#1E0342] font-semibold text-xl lg:text-2xl">WHATSAPP</h3>
-            <a :href="contact" class="text-[#1f162b] font-normal">{{ whatsapp.numberShow }}</a>
+            <a :href="contact" class="text-[#1f162b] font-normal">+{{ whatsapp.numberPrimary }}</a>
+            <br />
+            <a
+              :href="`https://wa.me/` + whatsapp.numberSecondary"
+              class="text-[#1f162b] font-normal"
+              >+{{ whatsapp.numberSecondary }}</a
+            >
           </div>
         </div>
         <div class="flex py-10">

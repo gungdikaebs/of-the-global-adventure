@@ -1,12 +1,12 @@
 // 6282266619405
 const whatsapp = {
-  numberShow: '+6281213736625',
-  number: '6281213736625'
+  numberPrimary: '6281213736625',
+  numberSecondary: '622727372'
 }
 const email = {
   name: 'offtheglobaladventure@gmail.com'
 }
-const contact = 'https://wa.me/' + whatsapp.number
+const contact = 'https://wa.me/' + whatsapp.numberPrimary
 
 function contactTemplate(place, placeType, link) {
   place = place.replace(/ /g, '%20')
