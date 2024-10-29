@@ -26,6 +26,7 @@ const data = props.datas.data.filter((data) => data.id == params)[0]
 const dataWithoutCurrent = props.datas.data.filter((data) => data.id != params)
 const totalData = ref(dataWithoutCurrent.length)
 const showMoreData = 6
+const fullRoute = `${window.location.origin}${route.fullPath}`
 
 const limitedData = computed(() => {
   return dataWithoutCurrent.slice(0, maxShowedData.value)
@@ -85,14 +86,14 @@ const capitalize = (str) => {
                     <img src="../assets/icons/Whatsapp.png" alt="" />
                   </a>
                   <a
-                    :href="contactTemplate(data.placeName, data.category)"
+                    :href="contactTemplate(data.placeName, data.category, fullRoute)"
                     v-if="data.category"
                     target="_blank"
                     class="py-3 ml-1 text-sm text-left"
                     >Whatsapp</a
                   >
                   <a
-                    :href="contactTemplate(data.placeName, 'destination')"
+                    :href="contactTemplate(data.placeName, 'destination', fullRoute)"
                     v-else
                     target="_blank"
                     class="py-3 ml-1 text-sm text-left"
