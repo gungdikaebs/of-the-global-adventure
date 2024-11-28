@@ -29,7 +29,7 @@ const divClass = {
   <!-- ACTIVITIES -->
   <section
     class="max-w-screen-xl mt-14 mx-auto overflow-hidden"
-    data-aos="zoom-out"
+    data-aos="fade-in"
     data-aos-duration="1000"
   >
     <h2 class="text-[#1E0342] font-semibold text-[2rem] md:text-[3rem] text-center">Activities</h2>
