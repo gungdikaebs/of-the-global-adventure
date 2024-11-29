@@ -5,6 +5,7 @@ import MainView from '@/components/MainView.vue'
 import router from '@/router'
 import { computed } from 'vue'
 import Footer from '@/components/Footer.vue'
+import FloatingWhatspp from '@/components/FloatingWhatspp.vue'
 
 const capitalize = (str) => str.charAt(0).toUpperCase() + str.slice(1)
 
@@ -19,5 +20,6 @@ const dataComputed = computed(() => {
 <template>
   <DefaultNavbar />
   <MainView :datas="dataComputed" type="accomodation" :key="dataComputed"></MainView>
+  <FloatingWhatspp />
   <Footer />
 </template>

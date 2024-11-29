@@ -10,8 +10,9 @@ import checkRounded from '@/components/icons/checkRounded.vue'
         Service
       </h2>
       <p class="text-center text-[#E1F7F5] font-light text-sm mt-3 px-5">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum delectus corrupti
-        laudantium nobis culpa fugiat magnam. Laborum officia animi delectus!
+        Our service packages are designed to provide you with the best experience possible. Whether you are looking for
+        a romantic getaway or a fun-filled family vacation, we have something for everyone. Our packages include a
+        variety of activities and amenities to ensure that your trip is unforgettable.
       </p>
     </div>
     <div class="flex flex-col md:flex-row py-20 px-5 lg:px-20 gap-16 justify-center items-center">
