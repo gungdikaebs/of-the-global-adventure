@@ -1,7 +1,7 @@
 // 6282266619405
 const whatsapp = {
-  numberPrimary: '0882266619405',
-  numberSecondary: '082266619405'
+  numberPrimary: '6282266619405',
+  numberSecondary: ''
 }
 const email = {
   primaryGmail: 'offtheglobaladventure@gmail.com',
