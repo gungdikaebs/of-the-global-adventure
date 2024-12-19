@@ -46,23 +46,23 @@ const capitalize = (str) => {
           >
             <RouterLink :to="'/' + type" class="px-4 py-1">Back</RouterLink>
           </div>
-          <div class="flex flex-col lg:flex-row mt-5">
-            <div class="flex-1 relative w-96 justify-center mx-auto">
+          <div class="flex flex-col lg:flex-row mt-5 rounded-lg">
+            <div class="flex-1 relative w-[23rem] justify-center mx-auto rounded-lg">
               <swiper-container
-                class="mySwiper w-full"
+                class="mySwiper rounded-lg"
                 pagination="true"
                 autoplay-delay="3500"
                 loop="true"
               >
                 <swiper-slide
-                  class="w-full bg-white items-center justify-center flex"
+                  class="w-full bg-white items-center justify-center flex rounded-lg"
                   v-for="img in data.img"
                   :key="img"
                 >
                   <img
                     :src="publicPath + img"
                     alt=""
-                    class="mx-auto rounded-lg block object-cover w-full h-96"
+                    class="mx-auto rounded-lg block object-cover h-full"
                   />
                 </swiper-slide>
               </swiper-container>
