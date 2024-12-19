@@ -47,7 +47,7 @@ const capitalize = (str) => {
             <RouterLink :to="'/' + type" class="px-4 py-1">Back</RouterLink>
           </div>
           <div class="flex flex-col lg:flex-row mt-5 rounded-lg">
-            <div class="flex-1 relative w-[23rem] justify-center mx-auto rounded-lg">
+            <div class="flex-1 relative w-full max-w-[23rem] justify-center mx-auto rounded-lg">
               <swiper-container
                 class="mySwiper rounded-lg"
                 pagination="true"
