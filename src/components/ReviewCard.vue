@@ -4,6 +4,23 @@ import StarRating from './StarRating.vue'
 import 'swiper/css'
 import 'swiper/css/navigation'
 import 'swiper/css/pagination'
+
+var breakpoints = {
+  0: {
+    slidesPerView: 1,
+    spaceBetween: 20,
+    centeredSlides: false
+  },
+  768: {
+    slidesPerView: 2,
+    spaceBetween: 28,
+    centeredSlides: true
+  },
+  1024: {
+    slidesPerView: 3,
+    spaceBetween: 32
+  }
+}
 </script>
 <style>
 .swiper-button-prev:after,
@@ -44,7 +61,7 @@ import 'swiper/css/pagination'
 </style>
 
 <template>
-  <section class="p-16 mt-10 relative">
+  <section class="md:p-8 p-4 mt-10 relative">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <div
         class="mb-14 flex flex-col justify-center items-center sm:flex-row sm:items-center sm:justify-between max-sm:gap-8"
@@ -95,57 +112,50 @@ import 'swiper/css/pagination'
         </div>
       </div>
     </div>
-    <div class="container">
-      <swiper-container
-        pagination-el=".swiper-pagination"
-        navigation-next-el=".swiper-button-next"
-        navigation-prev-el=".swiper-button-prev"
-        class="review-slider max-w-screen-lg"
-        effect="coverflow"
-        :grab-cursor="true"
-        :centered-slides="true"
-        :loop="true"
-        slides-per-view="auto"
-        coverflow-effect-rotate="0"
-        coverflow-effect-stretch="0"
-        coverflow-effect-depth="100"
-        coverflow-effect-modifier="2.5"
-        :pagination-clickable="true"
-        space-between="200"
-        :initial-slide="middleNumber"
-      >
-        <swiper-slide class="review-slide" v-for="review in reviews" :key="review.id">
-          <div class="swiper-wrapper">
+    <swiper-container
+      pagination-el=".swiper-pagination"
+      navigation-next-el=".swiper-button-next"
+      navigation-prev-el=".swiper-button-prev"
+      class="review-slider lg:flex grid grid-cols-1 md:grid-cols-2 justify-center items-center gap-8 swiper mySwiper"
+      :grab-cursor="true"
+      :centered-slides="true"
+      :loop="true"
+      slides-per-view="3"
+      :pagination-clickable="true"
+      space-between="28"
+      :breakpoints="breakpoints"
+    >
+      <swiper-slide class="review-slide" v-for="review in reviews" :key="review.id">
+        <div class="swiper-wrapper">
+          <div
+            class="swiper-slide group bg-white border border-solid h-auto border-gray-300 rounded-2xl p-6 transition-all duration-500 w-full hover:border-indigo-600 slide-active:border-indigo-600"
+          >
             <div
-              class="swiper-slide group bg-white border border-solid h-auto border-gray-300 rounded-2xl p-6 transition-all duration-500 w-full hover:border-indigo-600 slide-active:border-indigo-600"
+              class="flex items-center mb-9 gap-2 text-amber-500 transition-all duration-500 group-hover:text-indigo-600 swiper-slide-active:text-indigo-600"
             >
-              <div
-                class="flex items-center mb-9 gap-2 text-amber-500 transition-all duration-500 group-hover:text-indigo-600 swiper-slide-active:text-indigo-600"
-              >
-                <StarRating :style="100" :rating="review.rating"></StarRating>
-              </div>
-              <p
-                class="text-lg text-gray-500 leading-8 h-24 transition-all duration-500 mb-9 group-hover:text-gray-800"
-              >
-                {{ review.review }}
-              </p>
-              <div class="flex items-center gap-5">
-                <img class="rounded-full object-cover w-12 h-12" :src="review.img" alt="avatar" />
-                <div class="grid gap-1">
-                  <h5
-                    class="text-gray-900 font-medium transition-all duration-500 group-hover:text-indigo-600 swiper-slide-active:text-indigo-600"
-                  >
-                    {{ review.name }}
-                  </h5>
-                </div>
+              <StarRating :style="100" :rating="review.rating"></StarRating>
+            </div>
+            <p
+              class="text-lg text-gray-500 leading-8 transition-all duration-500 mb-9 group-hover:text-gray-800"
+            >
+              {{ review.review }}
+            </p>
+            <div class="flex items-center gap-5">
+              <img class="rounded-full object-cover w-12 h-12" :src="review.img" alt="avatar" />
+              <div class="grid gap-1">
+                <h5
+                  class="text-gray-900 font-medium transition-all duration-500 group-hover:text-indigo-600 swiper-slide-active:text-indigo-600"
+                >
+                  {{ review.name }}
+                </h5>
               </div>
             </div>
           </div>
-        </swiper-slide>
-      </swiper-container>
-      <div class="popular-slider-control">
-        <div class="swiper-pagination"></div>
-      </div>
+        </div>
+      </swiper-slide>
+    </swiper-container>
+    <div class="popular-slider-control">
+      <div class="swiper-pagination"></div>
     </div>
 
     <!-- <div class="pb-8 border-b border-gray-200 max-xl:max-w-3xl max-xl:mx-auto">
